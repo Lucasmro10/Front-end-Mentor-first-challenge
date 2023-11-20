@@ -1,3 +1,3 @@
-# Front-end-Mentor-first-challenge
+# Front-end-Mentor-challenges
 
 Apenas meu primeiro projeto
